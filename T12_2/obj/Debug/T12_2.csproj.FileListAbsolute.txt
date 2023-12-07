@@ -1,0 +1,8 @@
+D:\ОАиП\T12_2\bin\Debug\T12_2.exe.config
+D:\ОАиП\T12_2\bin\Debug\T12_2.exe
+D:\ОАиП\T12_2\bin\Debug\T12_2.pdb
+D:\ОАиП\T12_2\obj\Debug\T12_2.csproj.AssemblyReference.cache
+D:\ОАиП\T12_2\obj\Debug\T12_2.csproj.SuggestedBindingRedirects.cache
+D:\ОАиП\T12_2\obj\Debug\T12_2.csproj.CoreCompileInputs.cache
+D:\ОАиП\T12_2\obj\Debug\T12_2.exe
+D:\ОАиП\T12_2\obj\Debug\T12_2.pdb
