@@ -49,6 +49,7 @@ namespace T12_2
 
                 Figura figura = new Figura("Square", 5, 5, 5, 5);
                 figura.ShowArea();
+                
 
             }
             catch (Exception ex)
